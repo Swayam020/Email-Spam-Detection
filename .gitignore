@@ -1,0 +1,18 @@
+# Data & models (downloaded / generated locally)
+data/raw/
+data/processed/
+models/*.joblib
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.claude/
